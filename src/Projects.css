@@ -1,0 +1,36 @@
+.projectdetailscon{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+
+}
+
+
+.projectdetailscon div:first-child{
+    height:500px;
+    width:500px;
+    margin:20px;
+}
+
+.projectdetailscon div:last-child{
+    height:auto;
+    width:auto;
+}
+.projectdetailscon h1:only-of-type{
+    color: lightseagreen;
+
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.projectdetailscon p:only-of-type{
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+

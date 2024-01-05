@@ -1,0 +1,14 @@
+.ncon{
+            color:  red;
+            font-family: Nunito;
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            text-transform: uppercase;
+
+            display:flex;
+            justify-content: center;
+            align-items: center;
+
+}
